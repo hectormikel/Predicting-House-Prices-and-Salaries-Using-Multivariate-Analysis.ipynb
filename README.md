@@ -1,7 +1,7 @@
-House Price and Salary Prediction with Multiple Variables
+# House Price and Salary Prediction with Multiple Variables
 This repository contains Python code for predicting house prices and salaries using multiple variables. The code leverages the polars library for data manipulation and scikit-learn for linear regression modeling.
 
-Table of Contents
+## Table of Contents
 
 Introduction
 Installation
